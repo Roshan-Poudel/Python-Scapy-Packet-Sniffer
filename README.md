@@ -3,9 +3,9 @@ A quick packet Sniffer developed using python2 scapy to capture TCP, UDP and ICM
 ,Geo-Location. The dependent modules are Builtin [ os, datetime, socket, time,] and External [Geo-ip & Scapy] . Scapy and Geo-Ip are not pre-installed in linux.
 and hence needs to be installed.
 
-Installing External Modules:
+#Installing External Modules:  
 sudo apt install scapy  
-pip install python-geoip-geolite2  
+pip install python-geoip-geolite2    
 
 # To download and Run Script
 git clone https://github.com/Papu11/Python-Scapy-Packet-Sniffer.git

@@ -4,8 +4,8 @@ A quick packet Sniffer developed using python2 scapy to capture TCP, UDP and ICM
 and hence needs to be installed.
 
 Installing External Modules:
-sudo apt install scapy
-pip install python-geoip-geolite2
+sudo apt install scapy  
+pip install python-geoip-geolite2  
 
 # To download and Run Script
 git clone https://github.com/Papu11/Python-Scapy-Packet-Sniffer.git

@@ -8,6 +8,6 @@ sudo apt install scapy
 pip install python-geoip-geolite2    
 
 # To download and Run Script
-git clone https://github.com/Papu11/Python-Scapy-Packet-Sniffer.git  
+git clone https://github.com/Roshan-Poudel/Python-Scapy-Packet-Sniffer.git  
 cd Python-Scapy-Packet-Sniffer/  
 sudo python python-packet-sniffer.py       

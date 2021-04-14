@@ -5,7 +5,7 @@ and hence needs to be installed.
 
 # Installing External Modules:   
 ```
-*sudo apt install scapy  
+sudo apt install scapy  
 ```
 ```
 pip install python-geoip-geolite2  
@@ -13,7 +13,7 @@ pip install python-geoip-geolite2
 
 # To download and Run Script
 ```
-git clone *https://github.com/Roshan-Poudel/Python-Scapy-Packet-Sniffer.git*  
+git clone https://github.com/Roshan-Poudel/Python-Scapy-Packet-Sniffer.git  
 ```
 ```
 cd Python-Scapy-Packet-Sniffer/  

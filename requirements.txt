@@ -4,4 +4,3 @@ socket
 scapy
 datetime
 time
-geoip

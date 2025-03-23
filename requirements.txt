@@ -1,6 +1,6 @@
 #Python Version 3
 os
 socket
-scapy
+scapy 2.4.4
 datetime
 time

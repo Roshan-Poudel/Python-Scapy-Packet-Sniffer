@@ -17,3 +17,4 @@ cd Python-Scapy-Packet-Sniffer/
 ```
 sudo python3 python-packet-sniffer.py       
 ```
+![Packet Screenshot](https://github.com/Roshan-Poudel/Python-Scapy-Packet-Sniffer/blob/master/packet%20screenshot.jpg)
